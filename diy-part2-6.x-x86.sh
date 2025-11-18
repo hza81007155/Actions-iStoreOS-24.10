@@ -43,3 +43,6 @@ git clone --depth=1 -b main https://github.com/xiaomeng9597/istoreos-settings pa
 #echo "CONFIG_PACKAGE_luci-app-eqosplus=y
 #CONFIG_PACKAGE_luci-i18n-eqosplus-zh-cn=y" >> .config
 #git clone --depth=1 https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
+
+# diskman
+git clone --depth=1 https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
